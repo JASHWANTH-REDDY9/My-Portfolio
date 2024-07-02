@@ -14,7 +14,7 @@ export default function Project() {
             description: 'Developed a Flutter app with Firebase for tracking expenses and managing budgets. Features include intuitive UI, PIN security, dark theme, notifications, cloud sync, and a Recycle Bin for deleted items.',
             technologies: 'Technologies used: Large language models( LLMs ) | Python | JavaScript | NodeJS | Express | React',
             duration: 'April 2024 - Ongoing',
-            link: '' // Example link URL
+            link: 'https://github.com/JASHWANTH-REDDY9/PseshologistLLM' // Example link URL
         },
         {
             name: 'Blockchain-Based eVault for Legal Records',
