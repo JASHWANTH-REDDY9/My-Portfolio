@@ -1,0 +1,36 @@
+.home-container {
+    position: relative;
+    background-color: #000;
+    color: #fff;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.hero-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 80px); /* Adjust height as needed */
+    padding: 0 20px;
+}
+
+.hero-content {
+    text-align: center;
+}
+
+.hero-title {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.highlight {
+    color: #f0c14b; /* Adjust highlight color */
+}
+
+.hero-description {
+    font-size: 1.5rem;
+    margin-top: 20px;
+}
+
+/* Define your Background and Footer styles as needed */
