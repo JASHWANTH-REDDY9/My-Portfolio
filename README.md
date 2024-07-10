@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my portfolio website. It is built using React and Tailwind CSS and bootsrap. It is hosted on vercel.
+https://my-portfolio-rosy-psi-56.vercel.app/
 
 ## Available Scripts
 
